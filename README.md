@@ -89,4 +89,4 @@ Sempre que houver uma modificação, nossos usuários serão notificados acerca 
 Para esclarecer quaisquer dúvidas sobre esta Política de Privacidade ou sobre os dados pessoais que tratamos, entre em contato com nosso Encarregado de Proteção de Dados Pessoais, por algum dos canais mencionados abaixo:
 Telefone: (15) 99836-8635
 Endereço postal: Rod Raposo Tavares 501 km102, Jardim - Parque Reserva Fazenda Imperial, Sorocaba - SP
-![image](https://user-images.githubusercontent.com/70533731/198105383-a54b4362-4fcd-4ec6-8ea1-163db4c3b8fe.png)
+
